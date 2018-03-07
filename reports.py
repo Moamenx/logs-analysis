@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 import psycopg2
 
 question_one = 'What are the most popular three articles of all time?'
